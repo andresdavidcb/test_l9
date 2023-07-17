@@ -1,0 +1,2 @@
+permisos y roles de usuarios - jetstream
+codigos qr
